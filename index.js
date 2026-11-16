@@ -32,14 +32,12 @@ const WORKSPACE_URL = 'https://lal-rb96774.slack.com';
 const CLICKUP_ASSIGNEES = {
   hussein: 89443335,
   rami: 95530435,
-  gabriel: 101647025,
   patrick: 107433242,
 };
 
 const SLACK_USERS = {
   hussein: 'U02K90YB05P',
   rami: 'U08LMCU0SE8',
-  gabriel: 'U09PX4VBTKR',
   patrick: 'U02JPQPHBNJ',
 };
 
